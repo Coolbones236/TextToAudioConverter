@@ -18,8 +18,6 @@ Text to Speech App is a desktop application that converts text into spoken audio
 
 ✅ Drag-and-Drop Support: Instantly convert files just by dropping them onto the app
 
-✅ Batch File Merge: Drop multiple documents — the app combines them before conversion
-
 ✅ Progress & Status Indicators: Visual feedback during generation and playback
 
 💡 Use Cases:
