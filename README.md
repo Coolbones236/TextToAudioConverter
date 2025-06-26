@@ -29,3 +29,5 @@ Text to Speech App is a desktop application that converts text into spoken audio
   Create speech narration for videos or presentations
 
   Listen to documents while multitasking
+
+Its written in python.
