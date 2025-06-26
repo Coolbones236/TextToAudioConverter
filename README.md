@@ -26,8 +26,6 @@ Text to Speech App is a desktop application that converts text into spoken audio
 
   Convert notes, articles, or books into audio
 
-  Assist visually impaired users with accessible content
-
   Create speech narration for videos or presentations
 
   Listen to documents while multitasking
